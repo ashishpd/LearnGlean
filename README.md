@@ -79,6 +79,14 @@ The following markdown files provide detailed explanations of Glean's key concep
    - Backup and Recovery
    - Troubleshooting and Support
 
+7. **[07_roadmap_and_future_directions.md](./07_roadmap_and_future_directions.md)**
+   - Recent Developments (2024-2025)
+   - Current Roadmap Highlights
+   - Potential Feature Gaps
+   - Areas for Enhancement
+   - Market Challenges
+   - Future Opportunities
+
 ## 🎯 How to Use This Repository
 
 ### For Learning
@@ -189,10 +197,10 @@ After studying these materials, you should be able to:
 ## 📊 Statistics
 
 - **Total Questions**: 155+
-- **Concept Documentation Files**: 6 comprehensive guides
-- **Topics Covered**: 30+ major topics
+- **Concept Documentation Files**: 7 comprehensive guides
+- **Topics Covered**: 35+ major topics
 - **Subtopics**: 100+ detailed subtopics
-- **Total Content**: Comprehensive coverage of Glean platform
+- **Total Content**: Comprehensive coverage of Glean platform including roadmap and future directions
 
 ## 🔄 Updates
 

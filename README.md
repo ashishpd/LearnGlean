@@ -95,6 +95,14 @@ The following markdown files provide detailed explanations of Glean's key concep
    - Choosing the Right Solution
    - Decision Framework
 
+9. **[09_company_history_and_technology.md](./09_company_history_and_technology.md)**
+   - Company Overview and Founding Story
+   - Founders and Leadership Background
+   - Company Evolution Timeline
+   - Complete Technology Stack
+   - Architecture Insights
+   - Engineering Culture
+
 ## 🎯 How to Use This Repository
 
 ### For Learning
@@ -205,10 +213,10 @@ After studying these materials, you should be able to:
 ## 📊 Statistics
 
 - **Total Questions**: 155+
-- **Concept Documentation Files**: 8 comprehensive guides
-- **Topics Covered**: 40+ major topics
+- **Concept Documentation Files**: 9 comprehensive guides
+- **Topics Covered**: 45+ major topics
 - **Subtopics**: 100+ detailed subtopics
-- **Total Content**: Comprehensive coverage of Glean platform including roadmap, competitors, and future directions
+- **Total Content**: Comprehensive coverage of Glean platform including company history, technology stack, roadmap, and competitors
 
 ## 🔄 Updates
 

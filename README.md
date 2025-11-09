@@ -87,6 +87,14 @@ The following markdown files provide detailed explanations of Glean's key concep
    - Market Challenges
    - Future Opportunities
 
+8. **[08_competitors_and_comparison.md](./08_competitors_and_comparison.md)**
+   - Competitive Landscape Overview
+   - Major Competitors Analysis
+   - Detailed Feature Comparisons
+   - Key Differentiators
+   - Choosing the Right Solution
+   - Decision Framework
+
 ## 🎯 How to Use This Repository
 
 ### For Learning
@@ -197,10 +205,10 @@ After studying these materials, you should be able to:
 ## 📊 Statistics
 
 - **Total Questions**: 155+
-- **Concept Documentation Files**: 7 comprehensive guides
-- **Topics Covered**: 35+ major topics
+- **Concept Documentation Files**: 8 comprehensive guides
+- **Topics Covered**: 40+ major topics
 - **Subtopics**: 100+ detailed subtopics
-- **Total Content**: Comprehensive coverage of Glean platform including roadmap and future directions
+- **Total Content**: Comprehensive coverage of Glean platform including roadmap, competitors, and future directions
 
 ## 🔄 Updates
 

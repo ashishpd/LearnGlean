@@ -103,6 +103,14 @@ The following markdown files provide detailed explanations of Glean's key concep
    - Architecture Insights
    - Engineering Culture
 
+10. **[10_analytical_capabilities_and_limitations.md](./10_analytical_capabilities_and_limitations.md)**
+   - Analytical Capabilities Overview
+   - What Glean Can Do with Data
+   - Current Limitations
+   - Budget and Financial Question Use Cases
+   - Best Practices for Analytical Queries
+   - Future Capabilities
+
 ## 🎯 How to Use This Repository
 
 ### For Learning
@@ -213,10 +221,10 @@ After studying these materials, you should be able to:
 ## 📊 Statistics
 
 - **Total Questions**: 155+
-- **Concept Documentation Files**: 9 comprehensive guides
-- **Topics Covered**: 45+ major topics
+- **Concept Documentation Files**: 10 comprehensive guides
+- **Topics Covered**: 50+ major topics
 - **Subtopics**: 100+ detailed subtopics
-- **Total Content**: Comprehensive coverage of Glean platform including company history, technology stack, roadmap, and competitors
+- **Total Content**: Comprehensive coverage of Glean platform including capabilities, limitations, company history, technology stack, roadmap, and competitors
 
 ## 🔄 Updates
 
